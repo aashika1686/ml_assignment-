@@ -27,7 +27,3 @@ This is a static Vite application. Import the project into Vercel with the defau
 - WebGPU is used when available; the app selects Transformers.js WASM mode when WebGPU is unavailable. Processing speed and the ability to handle very large images depend on the user's browser and device memory.
 - A transparent PNG is created from the MODNet foreground matte.
 - The original Hugging Face example and MODNet model are documented in the references below.
-
-## Reference
-- [Hugging Face Transformers.js background removal example](https://github.com/huggingface/transformers.js-examples/tree/main/remove-background-webgpu)
-- [Xenova MODNet model](https://huggingface.co/Xenova/modnet)
