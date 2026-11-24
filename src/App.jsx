@@ -191,7 +191,7 @@ function App() {
                 <span className="avatar avatar-lilac">R</span>
                 <span>
                   <strong style={{ fontSize: '15px', color: '#172b4d' }}>Rifa Akthar</strong>
-                  <small style={{ fontSize: '13px', color: '#53657d' }}>2402016010</small>
+                  <small style={{ fontSize: '13px', color: '#53657d' }}>240201601049</small>
                 </span>
               </div>
             </div>
